@@ -10,16 +10,19 @@
  
 <div>
   <spam>
-    👨‍🎓 Sou engenheiro mecânico de formação
+    🎓 Sou engenheiro mecânico de formação
   </spam><br>
   <spam>
     🤓 ... e estudante de tecnologia;
   </spam><br>
   <spam>
-    🧑‍💻 Front-end Developer
+    🧑‍💻 Front-end Developer;
   </spam><br>
   <spam>
-    😉 O objetivo dos meus repoitórios é desenvolver e partilhar conhecimento.
+    😉 O objetivo dos meus repoitórios é desenvolver e partilhar conhecimento
+  </spam><br>
+  <spam>
+    🗣️ ... então, fique à vontade para entrar em contato comigo.
   </spam>
 </div><br> 
 
@@ -41,3 +44,4 @@
   <a href = "mailto:dev.constantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

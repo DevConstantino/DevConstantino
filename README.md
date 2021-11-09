@@ -40,9 +40,9 @@
 </div><br>
   
 <div> 
- 	<abbr title="DevConstantino"><a target = "blank" href="https://twitter.com/DevConstantino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></abbr>
-  <abbr title="dev.constantino@gmail.com"><a target = "_blank" href ="mailto:dev.constantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></abbr>
-  <abbr title="devconstantino.github.io"><a target = "_blank" href = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></abbr>
+ 	<abbr title="DevConstantino"><a href="https://twitter.com/DevConstantino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></abbr>
+  <abbr title="dev.constantino@gmail.com"><a href ="mailto:dev.constantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></abbr>
+  <abbr title="devconstantino.github.io"><a href = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></abbr>
 </div>  
 
 ![Snake animation](https://github.com/DevConstantino/DevConstantino/blob/output/github-contribution-grid-snake.svg)

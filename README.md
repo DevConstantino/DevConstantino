@@ -40,7 +40,7 @@
 </div><br>
   
 <div> 
- 	<a target="_blank" href="https://twitter.com/DevConstantino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ 	<a target="blank" href="https://twitter.com/DevConstantino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a target="_blank" href ="mailto:dev.constantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>  
 

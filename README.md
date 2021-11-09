@@ -22,12 +22,12 @@
     😉 O objetivo dos meus repoitórios é desenvolver e partilhar conhecimento
   </spam><br>
   <spam>
-    🗣️ ... então, fique à vontade para entrar em contato comigo.
+    🗣️ ... então, fique à vontade para entrar em <abbr title="dev.constantino@gmail.com">contato comigo</abbr>.
   </spam>
 </div><br> 
 
 <div align="center">
-  <a target= "_blank" href="https://devconstantino.github.io/">
+  <a target = "_blank" href="https://devconstantino.github.io/">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=DevConstantino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevConstantino&layout=compact&langs_count=4&theme=dark"/>
   </a>
@@ -40,8 +40,9 @@
 </div><br>
   
 <div> 
- 	<a target="blank" href="https://twitter.com/DevConstantino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a target="_blank" href ="mailto:dev.constantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 	<abbr title="DevConstantino"><a target = "blank" href="https://twitter.com/DevConstantino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></abbr>
+  <abbr title="dev.constantino@gmail.com"><a target = "_blank" href ="mailto:dev.constantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></abbr>
+  <abbr title="devconstantino.github.io"><a target = "_blank" href = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></abbr>
 </div>  
 
 ![Snake animation](https://github.com/DevConstantino/DevConstantino/blob/output/github-contribution-grid-snake.svg)

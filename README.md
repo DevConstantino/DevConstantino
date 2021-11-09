@@ -27,7 +27,7 @@
 </div><br> 
 
 <div align="center">
-  <a target = "_blank" href="https://devconstantino.github.io/">
+  <a href="https://devconstantino.github.io/">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=DevConstantino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevConstantino&layout=compact&langs_count=4&theme=dark"/>
   </a>

@@ -40,7 +40,7 @@
 * Em todos os meus projetos busco 
    * Detalhes sobre o desenvolvimento;
    * O design como paletas de cores e fontes;
-   * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar. Por exemplo, para esse Readme eu me inspirei no da <a href = "https://github.com/rafaballerini">Rafa Ballerini</a>
+   * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar. Por exemplo, para esse README me inspirei no da <a href = "https://github.com/rafaballerini">Rafa Ballerini</a>
 
 <div>
   <spam>

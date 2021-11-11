@@ -33,7 +33,8 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevConstantino&layout=compact&langs_count=4&theme=dark"/>
   </a>
 </div>
-<br>
+
+##
 
 <p>Alguns pontos que gostaria de destacar para que você consiga aproveitar ao máximo meus repositórios:</p>
 
@@ -41,6 +42,8 @@
    * Detalhes sobre o desenvolvimento;
    * O design como paletas de cores e fontes;
    * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar. Por exemplo, para esse README me inspirei no da <a href = "https://github.com/rafaballerini">Rafa Ballerini</a>
+
+##
 
 <div>
   <spam>

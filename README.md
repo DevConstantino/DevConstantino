@@ -22,7 +22,7 @@
     😉 O objetivo dos meus repoitórios é desenvolver e partilhar conhecimento
   </spam><br>
   <spam>
-    🗣️ ... então, fique à vontade para entrar em <abbr title="dev.constantino@gmail.com">contato comigo</abbr>.
+    🗣️ ... então, fique à vontade para entrar em contato comigo.
   </spam>
 </div>
 <br>
@@ -36,12 +36,14 @@
 
 ##
 
-<p>Alguns pontos que gostaria de destacar para que você consiga aproveitar ao máximo meus repositórios:</p>
+<p>Para que você consiga aproveitar ao máximo meus repositórios sempre fique atento nos arquivos README. Sempre buscarei detalha-lhos ao máximo a partir dos seguintes pontos:</p>
 
-* Em todos os meus projetos busco 
-   * Detalhes sobre o desenvolvimento;
-   * O design como paletas de cores e fontes;
-   * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar. Por exemplo, para esse README me inspirei no da <a href = "https://github.com/rafaballerini">Rafa Ballerini</a>
+* Detalhes sobre o desenvolvimento;
+* Design, como paleta de cores e fontes escolhidas;
+* Inspirações.
+   * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar em qual projeto ou ideia me inspirei. Por exemplo, para esse README me inspirei no da <a href = "https://github.com/rafaballerini">Rafa Ballerini</a>
+
+🚀 Você pode navegar pelos meus repositórios por aqui: https://devconstantino.github.io/ (Ainda está em desenvolvimento 😅)
 
 ##
 

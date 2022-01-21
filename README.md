@@ -13,10 +13,10 @@
     🎓 Sou engenheiro mecânico de formação
   </spam><br>
   <spam>
-    🤓 ... e estudante de tecnologia;
+    🤓 ... e estudante de tecnologia
   </spam><br>
   <spam>
-    🧑‍💻 Full-Stack Developer;
+    🧑‍💻 Full-Stack Developer
   </spam><br>
   <spam>
     😉 O objetivo dos meus repoitórios é desenvolver e partilhar conhecimento

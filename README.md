@@ -16,7 +16,7 @@
     🤓 ... e estudante de tecnologia;
   </spam><br>
   <spam>
-    🧑‍💻 Front-end Developer;
+    🧑‍💻 Full-Stack Developer;
   </spam><br>
   <spam>
     😉 O objetivo dos meus repoitórios é desenvolver e partilhar conhecimento

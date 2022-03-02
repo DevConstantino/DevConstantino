@@ -43,8 +43,8 @@
 * Detalhes sobre o desenvolvimento;
 * Design, como paleta de cores e fontes escolhidas;
 * Inspirações.
-   * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar em qual projeto ou ideia me inspirei. Por exemplo, para esse README me inspirei no da <a href = "https://github.com/rafaballerini">Rafa Ballerini</a>
-
+   * Fontes de inspiração são muito importantes para mim. Dessa forma, sempre irei indicar em qual projeto ou ideia me inspirei.
+   
 🚀 Você pode navegar pelos meus repositórios por aqui: https://devconstantino.github.io/ (Ainda está em desenvolvimento 😅)
 
 ##
